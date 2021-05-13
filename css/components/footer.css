@@ -1,0 +1,25 @@
+.footer {
+  background-image: linear-gradient(to bottom, black, grey);
+  /*background-size: cover;*/
+  /*background-position: center;*/
+  height: 120px;
+  padding-top: 50px;
+}
+.footer p {
+  color: white;
+  opacity: .7;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 5px;
+}
+.footer i {
+  color: red;
+}
+.footer-social{
+  display:flex;
+  justify-content: center;
+}
+.footer-social i {
+  color: #5BDD88;
+  font-size: 32px;
+}

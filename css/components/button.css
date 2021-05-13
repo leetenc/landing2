@@ -1,0 +1,19 @@
+.btn-banner {
+  display: inline-block;
+  background-color: transparent;
+  font-style: lighter;
+  background: green;
+  color: white;
+  /*border: solid darkgrey 1px;*/
+  text-shadow: none;
+  border-radius: 50px;
+  padding: 10px 20px;
+  transition: 0.4s;
+  margin: 10px 10px;
+  border: solid white 3px;
+}
+.btn-banner:hover {
+  border: solid green 3px;
+  background: #DBFCC7;
+  color: green;
+}

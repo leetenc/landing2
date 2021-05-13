@@ -1,0 +1,29 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10px 90px 40px 90px;
+}
+
+.card-work {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 10px 10px;
+  margin-top: 20px;
+}
+.card-work img {
+  height: 100px;
+}
+.card-work p {
+  margin: 0px 10px;
+  padding: 0 10px 10px 10px;
+  color: grey;
+}
+.card-work h4 {
+  margin: 10px 0px;
+}
